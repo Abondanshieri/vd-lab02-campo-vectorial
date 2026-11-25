@@ -1,0 +1,4 @@
+Forma del campo U: (17, 17)
+Magnitud en (2, 0): 2.0
+Magnitud en el centro: 0.0
+Magnitud máxima: 5.66

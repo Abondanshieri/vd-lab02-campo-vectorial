@@ -1,0 +1,12 @@
+En ( 3,  0) el vector es (+3, +0)
+En ( 0,  3) el vector es (+0, -3)
+En (-3,  0) el vector es (-3, +0)
+En ( 0, -3) el vector es (+0, +3)
+En ( 2,  2) el vector es (+2, -2)
+En ( 0,  0) el vector es (+0, +0)
+
+Campo                Divergencia  Rotacional
+Rotación (-Y, X)             0.0         2.0
+Fuente (X, Y)                2.0         0.0
+Sumidero (-X, -Y)           -2.0         0.0
+Silla (X, -Y)                0.0         0.0

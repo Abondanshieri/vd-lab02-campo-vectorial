@@ -1,0 +1,3 @@
+density = 0.5: 28 líneas de corriente, 392 tramos dibujados
+density = 1.1: 80 líneas de corriente, 1022 tramos dibujados
+density = 2.0: 142 líneas de corriente, 3215 tramos dibujados
