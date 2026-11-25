@@ -15,7 +15,7 @@ Se visualizó un campo de rotación (U, V) = (−Y, X) sobre una grilla de 17 ×
 | `src/LAB_02_Arela_Mamani_Franco.py` | El mismo código en texto plano |
 | `anexos/figuras/` | 6 figuras PNG extraídas del cuaderno |
 | `anexos/salidas/` | Salidas de consola de cada bloque |
-| `informe/` | Informe del laboratorio en `.docx` y `.pdf` |
+| `informe/` | Informe del laboratorio en PDF |
 
 ## Cómo reproducirlo
 
